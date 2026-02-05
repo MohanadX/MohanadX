@@ -7,7 +7,7 @@ I'm a passionate React Front-end developer with solid ground <br>in JS also Have
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanad-ayoub-55bb29382/)
 [![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tjih1VpU5x/)
 
-- 👨‍💻 All of my projects are available at [https://mohanad-ayoub.netlify.app](https://mohanad-ayoub.netlify.app)
+- ✒️ All of my projects are available at [https://mohanad-ayoub.netlify.app](https://mohanad-ayoub.netlify.app)
 
 - 📄 Know about my experiences [https://mohanad-ayoub.netlify.app/CV.pdf](https://mohanad-ayoub.netlify.app/CV.pdf)
   
