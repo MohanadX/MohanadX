@@ -5,7 +5,13 @@ I'm a passionate React Front-end developer with solid ground <br>in JS also Have
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanad-ayoub-55bb29382/)
-[My Portfolio](https://mohanad-ayoub.netlify.app)
+
+- 👨‍💻 All of my projects are available at [https://mohanad-ayoub.netlify.app](https://mohanad-ayoub.netlify.app)
+
+- 📄 Know about my experiences [https://mohanad-ayoub.netlify.app/CV.pdf](https://mohanad-ayoub.netlify.app/CV.pdf)
+  
+- 📫 How to reach me **mohanadayoubx@gmail.com**
+
 
 # 💻 Tech Stack:
 
