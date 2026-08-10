@@ -43,6 +43,6 @@ Frontend-leaning Full-Stack Developer specializing in **React 19**, **Next.js 16
 [![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tjih1VpU5x/)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanadX&theme=dark&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanadX&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MohanadX&theme=dark&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohanadX&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
 </div>
