@@ -1,18 +1,18 @@
 # 💫 Hi, I'm Mohanad Ayoub
 
-Frontend-leaning Full-Stack Developer specializing in **React 19**, **Next.js 16**, and **TypeScript**[cite: 1, 2]. I build high-performance, real-time web applications, complete LMS platforms, and AI-integrated systems[cite: 1, 2].
+Frontend-leaning Full-Stack Developer specializing in **React 19**, **Next.js 16**, and **TypeScript**. I build high-performance, real-time web applications, complete LMS platforms, and AI-integrated systems.
 
-- 🌐 **Portfolio & CV:** [mohanad-ayoub.netlify.app](https://mohanad-ayoub.netlify.app)[cite: 1, 2]
-- 📄 **Resume PDF:** [View Resume](https://mohanad-ayoub.netlify.app/CV.pdf)[cite: 1]
-- 📫 **Contact:** mohanadayoubx@gmail.com[cite: 1, 2]
+- 🌐 **Portfolio & CV:** [mohanad-ayoub.netlify.app](https://mohanad-ayoub.netlify.app)
+- 📄 **Resume PDF:** [View Resume](https://mohanad-ayoub.netlify.app/CV.pdf)
+- 📫 **Contact:** mohanadayoubx@gmail.com
 
 ---
 
 ## 🚀 Key Projects
 
-- 🎨 **[Flow AI](https://flow-ai-zeta-one.vercel.app)** – Real-time collaborative design canvas using React Flow, Pusher WebSockets, and Gemini API via Trigger.dev[cite: 1, 2].
-- 📚 **[ECourse Platform](https://e-course-mo2i.vercel.app)** – Production LMS featuring PostgreSQL, Drizzle ORM, Stripe, Clerk Auth, and IP-based PPP pricing[cite: 1, 2].
-- 📅 **[Lorial](https://lorial.vercel.app)** – Developer events platform with NextAuth, MongoDB Atlas, and PostHog analytics[cite: 1, 2].
+- 🎨 **[Flow AI](https://flow-ai-zeta-one.vercel.app)** – Real-time collaborative design canvas using React Flow, Pusher WebSockets, and Gemini API via Trigger.dev.
+- 📚 **[ECourse Platform](https://e-course-mo2i.vercel.app)** – Production LMS featuring PostgreSQL, Drizzle ORM, Stripe, Clerk Auth, and IP-based PPP pricing.
+- 📅 **[Lorial](https://lorial.vercel.app)** – Developer events platform with NextAuth, MongoDB Atlas, and PostHog analytics.
 
 ---
 
